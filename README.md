@@ -32,7 +32,7 @@ Este es un proyecto web interactivo para realizar un **sorteo de Amigo Secreto**
    
 ## 🎨 Captura de Pantalla
 
-![Amigo Secreto](amigo-secreto.png)
+![Amigo Secreto](assets/amigo-secreto.png)
 
 
 ## 💻 Tecnologías Utilizadas
