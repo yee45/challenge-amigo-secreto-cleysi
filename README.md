@@ -6,14 +6,14 @@ Este es un proyecto web interactivo para realizar un **sorteo de Amigo Secreto**
 
 ✅ Agregar nombres a la lista de amigos.\
 ✅ Validar que los nombres ingresados no estén vacíos.\
-✅ Sortear de manera aleatoria evitando que una persona se asigne a sí misma.\
-✅ Diseño futurista con una interfaz atractiva y moderna.\
+✅ Sortear de manera aleatoria.\
+✅ Diseño con una interfaz atractiva y moderna.\
 ✅ Resultados visibles en pantalla después del sorteo.
 
 ## 📂 Estructura del Proyecto
 
 ```
-📁 CHALLENGE-AMIGO-SECRETO
+📁 CHALLENGE-AMIGO-SECRETO-CLEYSI
 │── 📄 index.html        # Página principal
 │── 🎨 style.css        # Estilos
 │── 📜 app.js         # Lógica del sorteo
@@ -27,8 +27,8 @@ Este es un proyecto web interactivo para realizar un **sorteo de Amigo Secreto**
    git clone https://github.com/tuusuario/amigo-secreto.git
    ```
 2. **Abrir el archivo **`` en un navegador web.
-3. **Agregar nombres** en el campo de entrada y hacer clic en "Agregar".
-4. **Hacer clic en "Sortear Amigo Secreto"** para generar las asignaciones aleatorias.
+3. **Agregar nombres** en el campo de entrada y hacer clic en "AÑADIR".
+4. **Hacer clic en "Sortear Amigo"** para generar las asignaciones aleatorias.
 
 ## 💻 Tecnologías Utilizadas
 
