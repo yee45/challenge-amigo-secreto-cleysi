@@ -26,7 +26,7 @@ Este es un proyecto web interactivo para realizar un **sorteo de Amigo Secreto**
    ```sh
    https://github.com/yee45/challenge-amigo-secreto-cleysi.git
    ```
-2. **Abrir el archivo **`` en un navegador web.
+2. **Abrir el archivo** en un navegador web.
 3. **Agregar nombres** en el campo de entrada y hacer clic en "AÑADIR".
 4. **Hacer clic en "Sortear Amigo"** para generar las asignaciones aleatorias.
 
